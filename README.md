@@ -3,6 +3,14 @@ Click-To-Call-SugarCRM-SuiteCRM-Integration
 
 SugarCRM Click To Call Integration is  SugarCRM Custom Module which provide click to call facility from SugarCRM Itself. It also supports SuiteCRM.
 
+Demo Video 
+=============================================
+OutBound Call Demonstartion
+https://www.youtube.com/embed/HZldJ0M3G90
+
+InBound Call Demonstration 
+https://www.youtube.com/embed/RS3WPAXJXC8
+
 PREREQUISITE FOR SUGARCRM CLICK TO CALL INTEGRATION
 ------------------------------------------------------
 
