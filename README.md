@@ -28,6 +28,5 @@ PREREQUISITE FOR SUGARCRM CLICK TO CALL INTEGRATION
 2. Supports SugarCRM 6.1 to 6,7 version also all version of SuiteCRM
 3. Support Soft phone or Sip based hard Phone.
 
-Download It From Here: https://www.techextension.com/sugarcrm-click-to-call-integration.php
 Support@techextension.com
 Skype: tech.extension
