@@ -5,8 +5,7 @@ SugarCRM Click To Call Integration is  SugarCRM Custom Module which provide clic
 
 Demo Video 
 =============================================
-Full version  Demonstartion Video
-http://www.techextension.com/sugarcrm-asterisk-integration.php
+[ Full version  Demonstartion Video ] ( http://www.techextension.com/sugarcrm-asterisk-integration.php )
 
 Notes:
 
