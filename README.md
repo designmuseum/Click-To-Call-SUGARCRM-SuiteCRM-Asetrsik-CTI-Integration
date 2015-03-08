@@ -1,7 +1,7 @@
-Click-To-Call-SugarCRM-SuiteCRM-Integration
+Click To Call SugarCRM / SuiteCRM - Asetrsik CTI Integration
 ===========================================
 
-SugarCRM Click To Call Integration is  SugarCRM Custom Module which provide click to call facility from SugarCRM Itself. It also supports SuiteCRM.
+Click To Call SugarCRM / SuiteCRM - Asetrsik CTI Integration is  SugarCRM Custom Module which provide click to call facility from SugarCRM Itself. It also supports SuiteCRM.
 
 Demo Video 
 =============================================
@@ -15,9 +15,9 @@ Notes:
 
 3. In the Installation User require Activation Key. Ask for Techextension Team for it They will provide you. 
 
-4. Installation Guide : http://www.techextension.com/support/CRM/SugarCRM/Asterisk/How-to-Install-Sugar-CRM-Asterisk-Integration-SugarCRM-Modules.php 
+4. [ Installation Guide : ] ( http://www.techextension.com/support/CRM/SugarCRM/Asterisk/How-to-Install-Sugar-CRM-Asterisk-Integration-SugarCRM-Modules.php ) 
 
-5. Fore More Details Ask us http://www.techextension.com/contact.php
+5. [ Fore More Details Ask us ] ( http://www.techextension.com/contact.php )
 
 
 PREREQUISITE FOR SUGARCRM CLICK TO CALL INTEGRATION
